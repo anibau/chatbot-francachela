@@ -1,0 +1,545 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '51939969088@s.whatsapp.net',
+    fromMe: false,
+    id: '708B7939828AE2ADCD4B341DF6977F8F',
+    participant: undefined
+  },
+  messageTimestamp: 1696657873,
+  pushName: 'Francachela',
+  broadcast: false,
+  message: Message {
+    conversation: 'Menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Menu',
+  from: '51939969088'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe98fc2c-90ea-4206-bcc5-e97604569a4b',
+  keyword: 'key_5b64374b-2d5b-443f-ba74-a7b83e102f04',
+  answer: '🙌 Hola bienvenid@ a FRANCACHELA\n' +
+    'La Licorería para TODO San Juan de Miraflores',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e5ad3c80443d988ef95fd62ac86eab90'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9aabb379-58e2-4b75-8268-640665d412ea',
+  keyword: 'ans_fe98fc2c-90ea-4206-bcc5-e97604569a4b',
+  answer: '✓ ¡Recuerda indicar tu código luego de cada compra para que no se pierdan tus puntos! \n' +
+    '✓ ¡Atento porque vienen muchos más beneficios!\n' +
+    '✅ SÍGUENOS para más promociones exclusivas en nuestras redes sociales:\n' +
+    '💥 Facebook: https://www.facebook.com/licoreria.francachela/ \n' +
+    ' 💥 Instagram: https://www.instagram.com/licoreria_francachela',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bb07debe36b96089e0a5eceb38c26f0a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd866a68-ddda-417f-be83-cb54c473fe1a',
+  keyword: 'ans_9aabb379-58e2-4b75-8268-640665d412ea',
+  answer: '🚚Atención de *DELIVERY → 4PM a 10 PM* - Miércoles a Sábado',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2500,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '04cf49e27e788f23c09d1b5ccb44dcc3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6ff62333-caa0-46c3-b25d-788b9309614f',
+  keyword: 'ans_cd866a68-ddda-417f-be83-cb54c473fe1a',
+  answer: 'Digita el número de la *OPCIÓN* de tu preferencia:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5322d59edae08dce58df82cb1a1482b9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6aa22309-7411-4c8e-8e75-92a744e3633a',
+  keyword: 'ans_6ff62333-caa0-46c3-b25d-788b9309614f',
+  answer: '¿En que puedo ayudarte hoy?\n' +
+    '*MENÚ PRINCIPAL*\n' +
+    'Escribe 👉1️⃣ Para Hacer un *Pedido*\n' +
+    'Escribe 👉2️⃣ Para Consultar tus *Puntos Acumulados*\n' +
+    'Escribe 👉3️⃣ Para dejar una *Sugerencia y/o Reclamo*\n' +
+    'Escribe 👉4️⃣ Para Obtener un *Código* y Empezar a Acumular Puntos\n' +
+    'Escribe 👉5️⃣ Para Conocer nuestras *Tiendas Asociadas*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7a279e38a5fe9e8852bde93e5aa13768'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51939969088@s.whatsapp.net',
+    fromMe: false,
+    id: '4DBD7445ADBEB363545494FBBD39686D',
+    participant: undefined
+  },
+  messageTimestamp: 1696657887,
+  pushName: 'Francachela',
+  broadcast: false,
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '51939969088'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_82df45b6-6289-407c-a1d8-cbdf4f9c3ad9',
+  keyword: 'key_7731bcc3-1275-44b7-a622-df2fcf8a8986',
+  answer: 'Hola, mi pana 😉',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '8fc06a117dc25a2871670842059fe608'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_1ff54fff-1bad-4227-a9c4-b281c484895d',
+  keyword: 'ans_82df45b6-6289-407c-a1d8-cbdf4f9c3ad9',
+  answer: '📬Recuerda que por ser cliente Francachela estás participando de los SORTEOS DE LICORES MENSUALES .\n' +
+    '📬Mientras más PUNTOS FRANCACHELA tengas, más oportunidades de ganar tienes 🙀🎉🥳\n' +
+    '↪️ 📝Escribe "MENU" para regresar al Menú Principal',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1000,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15e3d41c5805c4cd19fbd2bffc0bfa6c'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_13807687-38b9-4281-9aa4-8574a3caa171',
+  keyword: 'ans_1ff54fff-1bad-4227-a9c4-b281c484895d',
+  answer: 'Si quieres saber cuántos puntos tienes, coloca tu *Código* de Cliente o *DNI*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'f468b1b08b43f5e70d1ef072a972d2c3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_36504251-3be5-4524-94b6-b04cc8d2e0d5',
+  keyword: 'ans_13807687-38b9-4281-9aa4-8574a3caa171',
+  answer: 'Ejemplo: *#111* / *#1111111*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: true,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'ac672602c8e193ce1f00828ee26a1a7b'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51939969088@s.whatsapp.net',
+    fromMe: false,
+    id: '22E630EC0B17D2BB3C5258C988AC4BCB',
+    participant: undefined
+  },
+  messageTimestamp: 1696657895,
+  pushName: 'Francachela',
+  broadcast: false,
+  message: Message {
+    conversation: 'Dd',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Dd',
+  from: '51939969088'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51939969088@s.whatsapp.net',
+    fromMe: false,
+    id: '545F3245241D80C180D9626A9698CE29',
+    participant: undefined
+  },
+  messageTimestamp: 1696657899,
+  pushName: 'Francachela',
+  broadcast: false,
+  message: Message {
+    conversation: '#24',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '#24',
+  from: '51939969088'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_7d1a64c9-ff68-4318-9adb-b89311d02473',
+  keyword: 'ans_36504251-3be5-4524-94b6-b04cc8d2e0d5',
+  answer: '↪️ ¡Excelente! En breve uno de nuestros agentes te enviará la información.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'dea9f6671b1e30c4a66e13f4c48d4a36'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51939969088@s.whatsapp.net',
+    fromMe: false,
+    id: 'A5AD76E06376823375BE203AF8244566',
+    participant: undefined
+  },
+  messageTimestamp: 1696657910,
+  pushName: 'Francachela',
+  broadcast: false,
+  message: Message {
+    conversation: 'MENU',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'MENU',
+  from: '51939969088'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe98fc2c-90ea-4206-bcc5-e97604569a4b',
+  keyword: 'key_5b64374b-2d5b-443f-ba74-a7b83e102f04',
+  answer: '🙌 Hola bienvenid@ a FRANCACHELA\n' +
+    'La Licorería para TODO San Juan de Miraflores',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e5ad3c80443d988ef95fd62ac86eab90'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9aabb379-58e2-4b75-8268-640665d412ea',
+  keyword: 'ans_fe98fc2c-90ea-4206-bcc5-e97604569a4b',
+  answer: '✓ ¡Recuerda indicar tu código luego de cada compra para que no se pierdan tus puntos! \n' +
+    '✓ ¡Atento porque vienen muchos más beneficios!\n' +
+    '✅ SÍGUENOS para más promociones exclusivas en nuestras redes sociales:\n' +
+    '💥 Facebook: https://www.facebook.com/licoreria.francachela/ \n' +
+    ' 💥 Instagram: https://www.instagram.com/licoreria_francachela',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bb07debe36b96089e0a5eceb38c26f0a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd866a68-ddda-417f-be83-cb54c473fe1a',
+  keyword: 'ans_9aabb379-58e2-4b75-8268-640665d412ea',
+  answer: '🚚Atención de *DELIVERY → 4PM a 10 PM* - Miércoles a Sábado',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2500,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '04cf49e27e788f23c09d1b5ccb44dcc3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6ff62333-caa0-46c3-b25d-788b9309614f',
+  keyword: 'ans_cd866a68-ddda-417f-be83-cb54c473fe1a',
+  answer: 'Digita el número de la *OPCIÓN* de tu preferencia:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5322d59edae08dce58df82cb1a1482b9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6aa22309-7411-4c8e-8e75-92a744e3633a',
+  keyword: 'ans_6ff62333-caa0-46c3-b25d-788b9309614f',
+  answer: '¿En que puedo ayudarte hoy?\n' +
+    '*MENÚ PRINCIPAL*\n' +
+    'Escribe 👉1️⃣ Para Hacer un *Pedido*\n' +
+    'Escribe 👉2️⃣ Para Consultar tus *Puntos Acumulados*\n' +
+    'Escribe 👉3️⃣ Para dejar una *Sugerencia y/o Reclamo*\n' +
+    'Escribe 👉4️⃣ Para Obtener un *Código* y Empezar a Acumular Puntos\n' +
+    'Escribe 👉5️⃣ Para Conocer nuestras *Tiendas Asociadas*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7a279e38a5fe9e8852bde93e5aa13768'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51939969088@s.whatsapp.net',
+    fromMe: false,
+    id: '42659973680F9B78B809A49C24EB72A4',
+    participant: undefined
+  },
+  messageTimestamp: 1696657928,
+  pushName: 'Francachela',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '51939969088'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '51939969088@s.whatsapp.net',
+    fromMe: false,
+    id: '30F18A18503D7A04477F7522BB9E24FE',
+    participant: undefined
+  },
+  messageTimestamp: 1696657935,
+  pushName: 'Francachela',
+  broadcast: false,
+  message: Message {
+    conversation: 'menu',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'menu',
+  from: '51939969088'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fe98fc2c-90ea-4206-bcc5-e97604569a4b',
+  keyword: 'key_5b64374b-2d5b-443f-ba74-a7b83e102f04',
+  answer: '🙌 Hola bienvenid@ a FRANCACHELA\n' +
+    'La Licorería para TODO San Juan de Miraflores',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'e5ad3c80443d988ef95fd62ac86eab90'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9aabb379-58e2-4b75-8268-640665d412ea',
+  keyword: 'ans_fe98fc2c-90ea-4206-bcc5-e97604569a4b',
+  answer: '✓ ¡Recuerda indicar tu código luego de cada compra para que no se pierdan tus puntos! \n' +
+    '✓ ¡Atento porque vienen muchos más beneficios!\n' +
+    '✅ SÍGUENOS para más promociones exclusivas en nuestras redes sociales:\n' +
+    '💥 Facebook: https://www.facebook.com/licoreria.francachela/ \n' +
+    ' 💥 Instagram: https://www.instagram.com/licoreria_francachela',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 1500,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'bb07debe36b96089e0a5eceb38c26f0a'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_cd866a68-ddda-417f-be83-cb54c473fe1a',
+  keyword: 'ans_9aabb379-58e2-4b75-8268-640665d412ea',
+  answer: '🚚Atención de *DELIVERY → 4PM a 10 PM* - Miércoles a Sábado',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2500,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '04cf49e27e788f23c09d1b5ccb44dcc3'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6ff62333-caa0-46c3-b25d-788b9309614f',
+  keyword: 'ans_cd866a68-ddda-417f-be83-cb54c473fe1a',
+  answer: 'Digita el número de la *OPCIÓN* de tu preferencia:',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 2000,
+    idle: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '5322d59edae08dce58df82cb1a1482b9'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_6aa22309-7411-4c8e-8e75-92a744e3633a',
+  keyword: 'ans_6ff62333-caa0-46c3-b25d-788b9309614f',
+  answer: '¿En que puedo ayudarte hoy?\n' +
+    '*MENÚ PRINCIPAL*\n' +
+    'Escribe 👉1️⃣ Para Hacer un *Pedido*\n' +
+    'Escribe 👉2️⃣ Para Consultar tus *Puntos Acumulados*\n' +
+    'Escribe 👉3️⃣ Para dejar una *Sugerencia y/o Reclamo*\n' +
+    'Escribe 👉4️⃣ Para Obtener un *Código* y Empezar a Acumular Puntos\n' +
+    'Escribe 👉5️⃣ Para Conocer nuestras *Tiendas Asociadas*',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    nested: [
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '7a279e38a5fe9e8852bde93e5aa13768'
+}
