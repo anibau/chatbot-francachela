@@ -18,7 +18,7 @@ const flow1 = addKeyword('1', {sensitive:true})
     }
     console.log('mensaje entrante:',ctx.body)})
  .addAnswer('"¡Celebra la llegada de la primavera con nuestras irresistibles ofertas en vinos y licores selectos!. ¡No te lo pierdas!🥳"')
- .addAnswer(['↪️ Click abajo para ver Promociones [Link 📌:]','↪️ Click abajo para ver el Productos Unitarios. [Link 📌:]', '↪️ Escribe "MENU" para regresar al Menú Principal'], {delay:1000} )
+ .addAnswer(['↪️ Click abajo para ver Catálogos Francachela [Link 📌:https://drive.google.com/file/d/1xmGCiT1L9FsARiawJ6U2yoUevOi0UCdb/view]', '↪️ Click abajo para ver Promociones [Link 📌:https://drive.google.com/file/d/1xmGCiT1L9FsARiawJ6U2yoUevOi0UCdb/view]','↪️ Click abajo para ver el Productos Unitarios. [Link 📌: https://drive.google.com/file/d/1OhUZXP2u1epdDUqgSHEKaUcfSAavl-u3/view]', '↪️ Escribe "MENU" para regresar al Menú Principal'], {delay:1000} )
  .addAnswer('Para agilizar tu pedido, mándanos una *captura* o el código de la promoción y producto que deseas.', {
     delay:4500}
 )
